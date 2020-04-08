@@ -1,0 +1,9 @@
+CONTENTS:                                                                |  Carry generate time
+1. Ripple carry adder(RCA) / Carry ripple adder / Carry propogate adder  |  O()
+2. Carry Look Ahead(CLA) adder                                           |
+3. Carry Select adder                                                    |
+4. Conditional Sum Adder                                                 |
+5. Carry Save adder                                                      |
+6. Carry Skip adder                                                      |
+7. Brent - Kung adder(BKA) - a Parallel Prefix adder                     |  O(logn)
+8. Kogge - Stone adder(KSA) - a Parallel Prefix adder                    |
