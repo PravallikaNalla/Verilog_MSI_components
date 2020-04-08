@@ -1,0 +1,6 @@
+logic diagram can be found here:
+https://slideplayer.com/slide/3267834/11/images/72/ConditionalSum+Adder+Prof.+V.G.+Oklobdzija+VLSI+Arithmetic.jpg
+
+Naming conventions i used
+S32_0 --> S[3] conditioned on C[2] to be 0
+C31_1 --> C[3] conditioned on C[1] to be 1
