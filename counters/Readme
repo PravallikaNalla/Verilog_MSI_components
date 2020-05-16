@@ -1,0 +1,9 @@
+CONTENTS:
+1. Binary ripple counter (Async)
+2. BCD ripple counter (Async)
+3. Binary sync counter (sync)
+
+1. ring counter
+2. Johnson counter
+3. One-hot counter
+4. One-cool counter
